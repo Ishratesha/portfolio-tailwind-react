@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const SkillsCard = ({ icon, title, text }) => {
   return (
     <article>
